@@ -1,4 +1,3 @@
-# filepath: c:\Users\uldre\Desktop\Uldren\Desarrollo\Entornos\VSCODE\2025A\AI\rpa (Ventas)\main.py
 import os
 import json
 import pandas as pd
